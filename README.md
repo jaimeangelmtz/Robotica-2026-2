@@ -5,5 +5,5 @@
 
 ## Integrantes
 >- Arzaba Ramírez Raymundo
->- Martinez COrdero Jaime Angel
+>- Martínez Cordero Jaime Angel
 >- Molina Sánchez Arturo

@@ -1,4 +1,4 @@
-# Robotica-2026-2
+# Robotica-2026-1
 
 ## Descripcion
 > Este repositorio sirve para guardar las practicas realizadas
